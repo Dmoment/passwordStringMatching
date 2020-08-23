@@ -1,0 +1,11 @@
+.not-matched {
+ font-weight: 600;
+ font-family: sans-serif;
+ color: red;
+}
+
+.password-matched {
+ font-weight: 600;
+ font-family: sans-serif;
+ color: rgb(59, 95, 59);
+}
